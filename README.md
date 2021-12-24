@@ -23,7 +23,7 @@ TO DO:
     - [x] Naive Bayes
     - [x] Regressão Logisticas
     - [ ] Outros ainda não dados em aual
-   - [ ] Métricas
-    - [x] Acurácia
-    - [x] F1
-    - [ ] AUC-ROC multipla
+   - [ ] Métricas:
+      - [x] Acurácia
+      - [x] F1
+      - [ ] AUC-ROC multipla

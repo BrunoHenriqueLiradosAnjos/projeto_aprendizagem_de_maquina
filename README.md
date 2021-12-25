@@ -2,7 +2,7 @@
 Projeto para avaliação da matéria aprendizagem de máquina
 
 
-Dataset - https://www.openml.org/d/41440
+Dataset - https://www.openml.org/d/23
 
 
 TO DO:

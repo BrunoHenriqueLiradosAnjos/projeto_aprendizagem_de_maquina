@@ -6,24 +6,28 @@ Dataset - https://www.openml.org/d/23
 
 
 TO DO:
-  - [ ] Tratamento das features/columnas - Parcialmente Feito
-  - [x] One-hot encoding das features - Feito com LabelEnconding
+  - [x] Desbalanceado
+  - [ ] Balanceado
   - [x] Normalização - Feito para o intervalo 0 - 1
-  - [ ] Grind Search:
-    - [ ] KNN
-    - [ ] MLP
-    - [ ] Tree
-    - [ ] Naive Bayes
-    - [ ] Regressão Logistica
-    - [ ] Outros ainda não dados em aula
-  - [ ] Algoritmos implemetados:
+  - [x] Grind Search:
+    - [x] KNN
+    - [x] MLP
+    - [x] Tree
+    - [x] Naive Bayes
+    - [x] Regressão Logistica
+    - [x] SVM
+  - [x] Algoritmos implemetados:
     - [x] KNN
     - [x] MLP
     - [x] Tree
     - [x] Naive Bayes
     - [x] Regressão Logisticas
-    - [ ] Outros ainda não dados em aual
-   - [ ] Métricas:
+    - [x] SVM
+   - [x] Métricas:
       - [x] Acurácia
       - [x] F1
-      - [ ] AUC-ROC multipla
+      - [x] AUC-ROC 
+  - [x] Testes estatísticos
+    - [x] Shapiro Wilk
+    - [x] Kruskal
+    - [x] Dunn's 

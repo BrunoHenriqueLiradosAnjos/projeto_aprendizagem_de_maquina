@@ -1,5 +1,5 @@
 # projeto_aprendizagem_de_maquina
-Projeto para avaliação da matéria aprendizagem de máquina
+Projeto para avaliação da matéria Aprendizagem de Máquina da Residência de Visão Computacional
 
 
 Dataset - https://www.openml.org/d/23
@@ -27,6 +27,7 @@ TO DO:
       - [x] Acurácia
       - [x] F1
       - [x] AUC-ROC 
+      - [x] Matriz de confusão média
   - [x] Testes estatísticos
     - [x] Shapiro Wilk
     - [x] Kruskal

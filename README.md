@@ -7,7 +7,7 @@ Dataset - https://www.openml.org/d/23
 
 TO DO:
   - [x] Desbalanceado
-  - [ ] Balanceado
+  - [x] Balanceado
   - [x] Normalização - Feito para o intervalo 0 - 1
   - [x] Grind Search:
     - [x] KNN

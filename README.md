@@ -2,7 +2,9 @@
 Projeto para avaliação da matéria Aprendizagem de Máquina da Residência de Visão Computacional
 
 
-Dataset - https://www.openml.org/d/23
+Dataset: 
+  - https://www.openml.org/d/23 - Link Quebrado
+  - https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice - Dataset fora do openml
 
 
 TO DO:

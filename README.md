@@ -3,13 +3,12 @@ Projeto para avaliação da matéria Aprendizagem de Máquina da Residência de 
 
 
 Dataset: 
-  - https://www.openml.org/d/23 - Link Quebrado
+  - https://www.openml.org/d/23
   - https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice - Dataset fora do openml
 
 
 TO DO:
   - [x] Desbalanceado
-  - [x] Balanceado
   - [x] Normalização - Feito para o intervalo 0 - 1
   - [x] Grind Search:
     - [x] KNN
